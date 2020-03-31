@@ -16,7 +16,6 @@ export default function Register() {
 
     const history = useHistory();
 
-    /****************************PRECISO OLHAR O PQ NAO ESTA FUNCIONANDO MINUTO 1:16:30******/
     async function handleRegister(e) {
         e.preventDefault();
 
